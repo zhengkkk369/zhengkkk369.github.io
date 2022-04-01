@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/photos/index.html</loc>
+    <loc>http://zhengkkk.cn/photos/index.html</loc>
     
     <lastmod>2022-04-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/03/30/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A/</loc>
+    <loc>http://zhengkkk.cn/2022/03/30/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A/</loc>
     
     <lastmod>2022-03-31</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://zhengkkk.cn/tags/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://zhengkkk.cn/about/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/schedule/index.html</loc>
+    <loc>http://zhengkkk.cn/schedule/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://zhengkkk.cn/categories/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/resources/index.html</loc>
+    <loc>http://zhengkkk.cn/resources/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/sitemap/index.html</loc>
+    <loc>http://zhengkkk.cn/sitemap/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/README.html</loc>
+    <loc>http://zhengkkk.cn/README.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -84,7 +84,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://zhengkkk.cn/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -92,7 +92,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/Robots/</loc>
+    <loc>http://zhengkkk.cn/tags/Robots/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -101,7 +101,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <loc>http://zhengkkk.cn/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
