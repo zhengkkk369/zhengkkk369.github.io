@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zhengkkk.cn/photos/index.html</loc>
+    <loc>http://zhengkkk.cn/2022/03/30/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A/</loc>
     
     <lastmod>2022-04-01</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>http://zhengkkk.cn/2022/03/30/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A/</loc>
+    <loc>http://zhengkkk.cn/photos/index.html</loc>
     
-    <lastmod>2022-03-31</lastmod>
+    <lastmod>2022-04-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -92,7 +92,7 @@
 
   
   <url>
-    <loc>http://zhengkkk.cn/tags/Robots/</loc>
+    <loc>http://zhengkkk.cn/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0%E7%9A%84tag/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -101,7 +101,7 @@
 
   
   <url>
-    <loc>http://zhengkkk.cn/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <loc>http://zhengkkk.cn/categories/Robots/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
