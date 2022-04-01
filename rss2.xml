@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>天才郑梽煌</title>
+    <link>http://example.com/</link>
+    
+    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>我郑梽煌此生不喝酒</description>
+    <pubDate>Thu, 31 Mar 2022 17:22:59 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>智能机器人第3次作业</title>
+      <link>http://example.com/2022/03/30/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A/</link>
+      <guid>http://example.com/2022/03/30/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A/</guid>
+      <pubDate>Wed, 30 Mar 2022 13:53:32 GMT</pubDate>
+      
+      <description>智能机器人第3次作业</description>
+      
+      
+      
+      <content:encoded><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3><script type="math/tex; mode=display">R=\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix},p=\begin{bmatrix}0\\L_1+L_2+L_3+L_4\\h\end{bmatrix}\\M=\begin{bmatrix}1&0&0&0\\0&1&0&L_1+L_2+L_3+L_4\\0&0&1&h\\0&0&0&1\end{bmatrix}</script><p>在{$0$​}系下，由图结合$v_i=-\omega_i\times q_i$​知</p><script type="math/tex; mode=display">T(\theta)=e^{[\mathcal{S_1}]\theta_1}\cdots e^{[\mathcal{S_n}]\theta_n}M\\\mathcal{S_i}=(\omega_i,v_i),i=1,2,\cdots,6</script><div class="table-container"><table><thead><tr><th style="text-align:left">$i$</th><th style="text-align:left">$\omega_i$</th><th style="text-align:left">$v_i$</th></tr></thead><tbody><tr><td style="text-align:left">$1$</td><td style="text-align:left">$(0,0,0)$</td><td style="text-align:left">$(0,1,0)$</td></tr><tr><td style="text-align:left">$2$</td><td style="text-align:left">$(0,0,1)$</td><td style="text-align:left">($L_1,0,0$)</td></tr><tr><td style="text-align:left">$3$</td><td style="text-align:left">$(-1,0,0)$</td><td style="text-align:left">$(0,-h,L_1)$</td></tr><tr><td style="text-align:left">$4$</td><td style="text-align:left">$(-1,0,0)$</td><td style="text-align:left">$(0,-h,L_1+L_2)$</td></tr><tr><td style="text-align:left">$5$</td><td style="text-align:left">$(-1,0,0)$</td><td style="text-align:left">$(0,-h,L_1+L_2+L_3)$</td></tr><tr><td style="text-align:left">$6$</td><td style="text-align:left">$(0,1,0)$</td><td style="text-align:left">$(h,0,0)$</td></tr></tbody></table></div><p>在{$b$​}系下，由图结合$v_i=-\omega_i\times q_i$知</p><script type="math/tex; mode=display">T(\theta)=Me^{\mathcal{B_1}\theta_1}\cdots e^{\mathcal{B_1\theta_n}},\mathcal{B_i}=(\omega_i,v_i)\\\mathcal{B_i}=(\omega_i,v_i),i=1,2,\cdots,6</script><div class="table-container"><table><thead><tr><th style="text-align:left">$i$</th><th style="text-align:left">$\omega_i$</th><th style="text-align:left">$v_i$</th></tr></thead><tbody><tr><td style="text-align:left">$1$</td><td style="text-align:left">$(0,0,0)$</td><td style="text-align:left">$(0,0,1)$</td></tr><tr><td style="text-align:left">$2$</td><td style="text-align:left">$(0,0,1)$</td><td style="text-align:left">$(L_1+L_2+L_3+L_4,0,0)$</td></tr><tr><td style="text-align:left">$3$</td><td style="text-align:left">$(-1,0,0)$</td><td style="text-align:left">$(0,0,-(L_1+L_2+L_3))$</td></tr><tr><td style="text-align:left">$4$</td><td style="text-align:left">$(-1,0,0)$</td><td style="text-align:left">$(0,0,-(L_1+L_2))$</td></tr><tr><td style="text-align:left">$5$</td><td style="text-align:left">$(-1,0,0)$</td><td style="text-align:left">$(0,0,-L_1)$</td></tr><tr><td style="text-align:left">$6$</td><td style="text-align:left">$(0,1,0)$</td><td style="text-align:left">$(0,0,0)$</td></tr></tbody></table></div><h3 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h3><script type="math/tex; mode=display">R=\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix},p=\begin{bmatrix}L_1\\L_3+L_4\\-L_5-L_6\end{bmatrix}\\M=\begin{bmatrix}1&0&0&L_1\\0&1&0&L_3+L_4\\0&0&1&-L_5-L_6\\0&0&0&1\end{bmatrix}</script><p>在{$0$​}系下，由图结合$v_i=-\omega_i\times q_i$​知</p><script type="math/tex; mode=display">T(\theta)=e^{[\mathcal{S_1}]\theta_1}\cdots e^{[\mathcal{S_n}]\theta_n}M\\\mathcal{S_i}=(\omega_i,v_i),i=1,2,\cdots,6</script><div class="table-container"><table><thead><tr><th>$i$</th><th>$\omega_i$</th><th>$v_i$</th></tr></thead><tbody><tr><td>$1$</td><td>$(1,0,0)$</td><td>$(0,0,0)$</td></tr><tr><td>$2$</td><td>$(0,0,1)$</td><td>$(0,L_1,0)$</td></tr><tr><td>$3$</td><td>$(0,1,0)$</td><td>$(-L_2,0,L_1)$</td></tr><tr><td>$4$</td><td>$(1,0,0)$</td><td>$(0,0,-L_3)$</td></tr><tr><td>$5$</td><td>$(0,0,0)$</td><td>$(0,1,0)$</td></tr><tr><td>$6$</td><td>$(0,1,0)$</td><td>$(L_5,0,L_1)$</td></tr></tbody></table></div><p>在{$b$}系下，由图结合$v_i=-\omega_i\times q_i$知</p><script type="math/tex; mode=display">T(\theta)=Me^{\mathcal{B_1}\theta_1}\cdots e^{\mathcal{B_1\theta_n}},\mathcal{B_i}=(\omega_i,v_i)\\\mathcal{B_i}=(\omega_i,v_i),i=1,2,\cdots,6</script><div class="table-container"><table><thead><tr><th>$i$</th><th>$\omega_i$</th><th>$v_i$</th></tr></thead><tbody><tr><td>$1$</td><td>$(1,0,0)$</td><td>$(0,L_5+L_6,L_3+L_4)$</td></tr><tr><td>$2$</td><td>$(0,0,1)$</td><td>$(-L_3-L_4,0,0)$</td></tr><tr><td>$3$</td><td>$(0,1,0)$</td><td>$(-L_2-L_5-L_6,0,0)$</td></tr><tr><td>$4$</td><td>$(1,0,0)$</td><td>$(0,L_5+L_6)$</td></tr><tr><td>$5$</td><td>$(0,0,0)$</td><td>$(0,1,0)$</td></tr><tr><td>$6$</td><td>$(0,1,0)$</td><td>$(-L_6,0,0)$</td></tr></tbody></table></div><h3 id="3"><a href="#3" class="headerlink" title="3."></a>3.</h3><script type="math/tex; mode=display">R=\begin{bmatrix}-1&0&0\\0&1&0\\0&0&-1\end{bmatrix},p=\begin{bmatrix}0\\4\\2\end{bmatrix}\\M=\begin{bmatrix}1&0&0&0\\0&1&0&4\\0&0&1&2\\0&0&0&1\end{bmatrix}\\</script><p>在{$0$}系下，由图结合$v_i=-\omega_i\times q_i$知</p><script type="math/tex; mode=display">T(\theta)=e^{[\mathcal{S_1}]\theta_1}\cdots e^{[\mathcal{S_n}]\theta_n}M\\\mathcal{S_i}=(\omega_i,v_i),i=1,2,\cdots,6</script><div class="table-container"><table><thead><tr><th>$i$</th><th>$\omega_i$</th><th>$v_i$</th></tr></thead><tbody><tr><td>$1$</td><td>$(0,0,1)$</td><td>$(0,0,0)$</td></tr><tr><td>$2$</td><td>$(1,0,0)$</td><td>$(0,2,0)$</td></tr><tr><td>$3$</td><td>$(1,0,0)$</td><td>$(0,2,-1)$</td></tr><tr><td>$4$</td><td>$(0,0,0)$</td><td>$(0,1,0)$</td></tr><tr><td>$5$</td><td>$(0,\frac{\sqrt{2}}{2},\frac{\sqrt{2}}{2})$</td><td>$(\frac{\sqrt{2}}{2},0,0)$</td></tr><tr><td>$6$</td><td>$(0,0,-1)$</td><td>$(-4,0,0)$</td></tr></tbody></table></div><p>在{$b$}系下，由图结合$v_i=-\omega_i\times q_i$知</p><script type="math/tex; mode=display">T(\theta)=Me^{\mathcal{B_1}\theta_1}\cdots e^{\mathcal{B_1\theta_n}},\mathcal{B_i}=(\omega_i,v_i)\\\mathcal{B_i}=(\omega_i,v_i),i=1,2,\cdots,6</script><div class="table-container"><table><thead><tr><th>$i$</th><th>$\omega_i$</th><th>$v_i$</th></tr></thead><tbody><tr><td>$1$</td><td>$(0,0,-1)$</td><td>$(4,0,0)$</td></tr><tr><td>$2$</td><td>$(-1,0,0)$</td><td>$(0,1,-4)$</td></tr><tr><td>$3$</td><td>$(-1,0,0)$</td><td>$(0,1,-3)$</td></tr><tr><td>$4$</td><td>$(0,0,0)$</td><td>$(0,1,0)$</td></tr><tr><td>$5$</td><td>$(0,\frac{\sqrt{2}}{2},-\frac{\sqrt{2}}{2})$</td><td>$(\frac{\sqrt{2}}{2},0,0)$</td></tr><tr><td>$6$</td><td>$(0,0,1)$</td><td>$(0,0,0)$</td></tr></tbody></table></div>]]></content:encoded>
+      
+      
+      <category domain="http://example.com/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/">机器人</category>
+      
+      
+      <category domain="http://example.com/tags/Robots/">Robots</category>
+      
+      
+      <comments>http://example.com/2022/03/30/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
