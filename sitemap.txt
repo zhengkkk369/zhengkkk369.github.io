@@ -1,5 +1,5 @@
 http://zhengkkk.cn/2022/03/30/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A/
-http://zhengkkk.cn/2022/04/02/test/
+http://zhengkkk.cn/2016/03/30/test/
 http://zhengkkk.cn/photos/index.html
 http://zhengkkk.cn/tags/index.html
 http://zhengkkk.cn/about/index.html
@@ -9,6 +9,7 @@ http://zhengkkk.cn/resources/index.html
 http://zhengkkk.cn/sitemap/index.html
 http://zhengkkk.cn/README.html
 http://zhengkkk.cn/
+http://zhengkkk.cn/tags/%E4%BD%9C%E4%B8%BA%E6%97%A5%E8%AE%B0%E5%8A%A0%E5%AF%86/
 http://zhengkkk.cn/tags/%E4%BD%9C%E4%B8%9A/
 http://zhengkkk.cn/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/
 http://zhengkkk.cn/categories/Robots/
