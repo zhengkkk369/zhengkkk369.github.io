@@ -1,4 +1,4 @@
-https://zhengkkk.cn/2022/04/12/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CUDP%E5%92%8CTCP%E9%80%9A%E4%BF%A1/
+https://zhengkkk.cn/2022/04/23/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CUDP%E5%92%8CTCP%E9%80%9A%E4%BF%A1/
 https://zhengkkk.cn/2020/03/30/test/
 https://zhengkkk.cn/2022/03/30/%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A/
 https://zhengkkk.cn/photos/index.html
@@ -11,6 +11,8 @@ https://zhengkkk.cn/sitemap/index.html
 https://zhengkkk.cn/README.html
 https://zhengkkk.cn/
 https://zhengkkk.cn/tags/%E5%8A%A0%E5%AF%86%E6%A0%87%E7%AD%BE/
+https://zhengkkk.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/
 https://zhengkkk.cn/tags/%E4%BD%9C%E4%B8%9A/
 https://zhengkkk.cn/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/
+https://zhengkkk.cn/categories/CS/
 https://zhengkkk.cn/categories/Robots/
